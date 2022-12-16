@@ -5,6 +5,7 @@
 ## Pengguna
 
 * [Umum](pengguna/umum.md)
+* [Peralatan](pengguna/peralatan.md)
 * [Program](pengguna/program.md)
 * [Inspeksi](pengguna/inspeksi.md)
 * [Suket](pengguna/suket.md)
