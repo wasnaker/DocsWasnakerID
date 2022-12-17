@@ -1,6 +1,7 @@
 ---
 description: >-
-  Perusahaan dapat mempergunakan menu suket ini untuk memantau / memberikan persetujuan aktifitas suket
+  Perusahaan dapat mempergunakan menu suket ini untuk memantau / memberikan
+  persetujuan aktifitas suket
 ---
 
 # Akses sebagai Perusahaan

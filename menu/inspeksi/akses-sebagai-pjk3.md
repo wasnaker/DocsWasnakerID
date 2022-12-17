@@ -1,7 +1,5 @@
 ---
-description: >-
-  PJK3 dapat mempergunakan menu inspeksi ini untuk melakukan manajemen
-  inspeksi.
+description: PJK3 dapat mempergunakan menu inspeksi ini untuk melakukan manajemen inspeksi.
 ---
 
 # Akses sebagai PJK3

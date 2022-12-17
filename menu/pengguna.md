@@ -1,5 +1,6 @@
 ---
 description: Pengguna aplikasi ini adalah pemilik akun aplikasi Wasnaker.ID
+coverY: 0
 ---
 
 # Pengguna

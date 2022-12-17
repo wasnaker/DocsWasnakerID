@@ -1,7 +1,5 @@
 ---
-description: >-
-  PJK3 dapat mempergunakan menu suket ini untuk melakukan manajemen
-  suket.
+description: PJK3 dapat mempergunakan menu suket ini untuk melakukan manajemen suket.
 ---
 
 # Akses sebagai PJK3

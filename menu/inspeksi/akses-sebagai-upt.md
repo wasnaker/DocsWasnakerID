@@ -1,9 +1,10 @@
 ---
 description: >-
-  Perusahaan dapat mempergunakan menu inspeksi ini untuk memantau / memberikan persetujuan aktifitas inspeksi
+  Unit Pelaksana Teknis dapat mempergunakan menu inspeksi ini untuk memantau
+  aktifitas inspeksi
 ---
 
-# Akses sebagai Perusahaan
+# Akses sebagai UPT
 
 ## Menu
 
