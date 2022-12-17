@@ -6,7 +6,7 @@ description: >-
 
 # Akses sebagai PJK3
 
-### Menu
+## Menu
 
 Dalam menu peralatan ini bagi perusahaan tersedia hak akses sebagai berikut:
 
@@ -14,19 +14,19 @@ Dalam menu peralatan ini bagi perusahaan tersedia hak akses sebagai berikut:
 2. Tambah Peralatan
 3. Edit Peralatan
 
-#### 1. Daftar Peralatan
+### 1. Daftar Peralatan
 
 Pada menu ini ditampilkan peralatan yang diguanakan dalam proses sertifikasi K3
 
-#### 2. Tambah Peralatan
+### 2. Tambah Peralatan
 
 Menu ini digunakan untuk menambah data peralatan &#x20;
 
-#### 3. Edit Peralatan
+### 3. Edit Peralatan
 
 Menu ini digunakan untuk mengubah data peralatan
 
-#### 4. Ubah Status Peralatan
+### 4. Ubah Status Peralatan
 
 Menu ini digunakan untuk mengubah status peralatan.
 
