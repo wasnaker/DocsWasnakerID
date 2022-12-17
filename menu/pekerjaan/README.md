@@ -1,9 +1,8 @@
 ---
 description: >-
-  Pekerjaan adalah kegiatan / aktifitas pokok yang digunakan sebagai dasar dalam
-  aktifitas aktifitas lainnya dalam rangka sertifikasi K3.
+  Menu Pekerjaan adalah aktifitas utama dalam proses sertifikasi yang menjadi
+  pelaksanaan aktifitas lainnya.
 ---
 
 # Pekerjaan
 
-Program adalah kegiatan / aktifitas pengguna dalam rangka sertifikasi K3

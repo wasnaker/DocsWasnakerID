@@ -10,12 +10,9 @@
   * [Akses sebagai PJK3](menu/peralatan/akses-sebagai-pjk3.md)
   * [Akses sebagai UPT](menu/peralatan/akses-sebagai-upt.md)
   * [Akses sebagai Dinas](menu/peralatan/akses-sebagai-dinas.md)
-* [Pekerjaan](menu/program/README.md)
-  * [Akses sebagai PJK3](menu/program/akses-sebagai-pjk3.md)
-* [Inspeksi](pengguna/inspeksi.md)
-* [Suket](pengguna/suket.md)
-
-## Penyedia
-
-* [Program](penyedia/program.md)
-* [Suket](penyedia/suket.md)
+* [Pekerjaan](menu/pekerjaan/README.md)
+  * [Akses sebagai PJK3](menu/pekerjaan/akses-sebagai-pjk3.md)
+* [Inspeksi](menu/inspeksi/README.md)
+  * [Page 1](menu/inspeksi/page-1.md)
+* [Suket](menu/suket/README.md)
+  * [Page 2](menu/suket/page-2.md)
