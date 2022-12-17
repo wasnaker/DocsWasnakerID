@@ -15,7 +15,7 @@ Dalam menu peralatan ini bagi Kantor Unit Pelaksana Teknis tersedia hak akses se
 
 ### 1. Lihat Peralatan
 
-Pada menu ini ditampilkan peralatan yang digunakan dalam proses sertifikasi K3.
+Pada menu ini ditampilkan peralatan yang digunakan dalam proses sertifikasi K3
 
 Akses diatas diberikan terbatas pada peralatan yang dimiliki oleh perusahaan yang berada dalam lingkungan kerja Kantor Unit Pelaksana Teknis.
 

@@ -4,7 +4,7 @@ description: >-
   pekerjaan.
 ---
 
-# Akses sebagai Kantor Dinas
+# Akses sebagai PJK3
 
 ## Menu
 
@@ -31,7 +31,10 @@ Menu ini digunakan untuk mengubah data pekerjaan
 
 Menu ini digunakan untuk mengubah status pekerjaan
 
+
+
 Akses diatas diberikan terbatas pada pekerjaan yang dilakukan oleh PJK3.
+
 
 ## Otorisasi
 
@@ -46,3 +49,5 @@ Perusahaan yang bekerjasama dengan PJK3 dalam proses sertifikasi terkait memilik
 Kantor Unit Pelaksana Teknis dimana domisili perusahaan dapat mengakses data pekerjaan perusahaan.
 
 ### 3. Kantor Dinas
+
+Kantor Dinas dapat mengakses data pekerjaan perusahaan.

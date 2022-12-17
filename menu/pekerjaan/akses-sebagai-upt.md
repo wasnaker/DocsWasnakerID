@@ -17,7 +17,7 @@ Dalam menu pekerjaan ini bagi perusahaan tersedia hak akses sebagai berikut:
 
 ### 1. Lihat Pekerjaan
 
-Pada menu ini ditampilkan pekerjaan yang digunakan dalam proses sertifikasi K3.
+Pada menu ini ditampilkan pekerjaan yang digunakan dalam proses sertifikasi K3
 
 ### 2. Tambah Pekerjaan
 
@@ -46,4 +46,6 @@ Perusahaan yang bekerjasama dengan PJK3 dalam proses sertifikasi terkait memilik
 Kantor Unit Pelaksana Teknis dimana domisili perusahaan dapat mengakses data pekerjaan perusahaan.
 
 ### 3. Kantor Dinas
+
+Kantor Dinas dapat mengakses data pekerjaan perusahaan.
 
