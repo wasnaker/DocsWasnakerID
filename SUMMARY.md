@@ -6,7 +6,9 @@
 
 * [Pengguna](menu/pengguna.md)
 * [Peralatan](menu/peralatan.md)
-  * [Peralatan sebagai Perusahaan](menu/peralatan/peralatan-sebagai-perusahaan.md)
+  * [Akses sebagai Perusahaan](menu/peralatan/akses-sebagai-perusahaan.md)
+  * [Akses sebagai PJK3](menu/peralatan/akses-sebagai-pjk3.md)
+  * [Akses sebagai UPT](menu/peralatan/akses-sebagai-upt.md)
 * [Program](pengguna/program.md)
 * [Inspeksi](pengguna/inspeksi.md)
 * [Suket](pengguna/suket.md)

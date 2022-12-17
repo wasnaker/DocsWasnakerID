@@ -4,27 +4,36 @@ description: >-
   peralatan.
 ---
 
-# Peralatan sebagai Perusahaan
+# Akses sebagai Perusahaan
 
 ### Menu
 
-Dalam menu peralatan ini tersedia hak akses sebagai berikut:
+Dalam menu peralatan ini bagi perusahaan tersedia hak akses sebagai berikut:
 
-1. Daftar Peralatan
-2. Lihat Peralatan
-3. Tambah Peralatan
-4. Edit Peralatan
-5. Status Peralatan
+1. Lihat Peralatan
+2. Tambah Peralatan
+3. Edit Peralatan
+4. Status Peralatan
 
-#### 1. Daftar Peralatan
+#### 1. Lihat Peralatan
+
+Pada menu ini ditampilkan peralatan yang digunakan dalam proses sertifikasi K3
 
 #### 2. Tambah Peralatan
 
+Menu ini digunakan untuk menambah data peralatan &#x20;
+
 #### 3. Edit Peralatan
+
+Menu ini digunakan untuk mengubah data peralatan
 
 #### 4. Ubah Status Peralatan
 
+Menu ini digunakan untuk mengubah status peralatan
 
+
+
+Akses diatas diberikan terbatas pada peralatan yang dimiliki oleh perusahaan.
 
 ### Berbagi Akses
 
@@ -38,10 +47,10 @@ PJK3 yang tidak ditunjuk oleh perusahaan tidak dapat mengakses data peralatan mi
 
 Adalah hak akses yang otomatis dimiliki oleh pengguna tertentu sebagaimana dibawah ini:
 
-#### Kantor Unit Pelaksana Teknis
+#### 1. Kantor Unit Pelaksana Teknis
 
 Kantor Unit Pelaksana Teknis dimana domisili perusahaan dapat mengakses data peralatan perusahaan.
 
-#### Kantor Dinas
+#### 2. Kantor Dinas
 
 Kantor Dinas dapat mengakses data peralatan perusahaan.
