@@ -1,7 +1,7 @@
 ---
 description: >-
   Perusahaan dapat mempergunakan menu peralatan ini untuk melakukan manajemen
-  peralatan
+  peralatan.
 ---
 
 # Peralatan sebagai Perusahaan

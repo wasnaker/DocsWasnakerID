@@ -5,7 +5,7 @@
 ## Menu
 
 * [Pengguna](menu/pengguna.md)
-* [Peralatan](menu/peralatan/README.md)
+* [Peralatan](menu/peralatan.md)
   * [Peralatan sebagai Perusahaan](menu/peralatan/peralatan-sebagai-perusahaan.md)
 * [Program](pengguna/program.md)
 * [Inspeksi](pengguna/inspeksi.md)
