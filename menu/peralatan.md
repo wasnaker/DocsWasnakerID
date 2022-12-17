@@ -8,7 +8,7 @@ Peralatan berisi daftar peralatan yang dimiliki pengguna yang berkaitan dengan s
 
 ### Perusahaan
 
-Peran perusahaan dalam menu peralatan ini adalah sebagai pemilik peralatan
+Peran perusahaan dalam menu peralatan ini adalah sebagai pemilik peralatan.
 
 ### PJK3
 
@@ -26,3 +26,4 @@ Peran Kantor Dinas dalam menu peralatan ini adalah untuk mengelola data peralata
 
 1. Pada menu ini diperlihatkan daftar peralatan beserta tanggal masa berlaku sertifikasi
 2. Pada setiap alat diperlihatkan riwayat sertifikasi yang berisi tanggal pelaksanaan riksa uji, tanggal penerbitan surat keterangan, tanggal pemeriksaan kembali seharusnya dilakukan.
+

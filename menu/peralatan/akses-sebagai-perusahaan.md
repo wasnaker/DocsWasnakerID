@@ -13,25 +13,23 @@ Dalam menu peralatan ini bagi perusahaan tersedia hak akses sebagai berikut:
 1. Lihat Peralatan
 2. Tambah Peralatan
 3. Edit Peralatan
-4. Status Peralatan
+4. Update Status Peralatan
 
 ### 1. Lihat Peralatan
 
-Pada menu ini ditampilkan peralatan yang digunakan dalam proses sertifikasi K3
+Pada menu ini ditampilkan peralatan yang digunakan dalam proses sertifikasi K3.
 
 ### 2. Tambah Peralatan
 
-Menu ini digunakan untuk menambah data peralatan &#x20;
+Menu ini digunakan untuk menambah data peralatan.
 
 ### 3. Edit Peralatan
 
-Menu ini digunakan untuk mengubah data peralatan
+Menu ini digunakan untuk mengubah data peralatan.
 
 ### 4. Ubah Status Peralatan
 
 Menu ini digunakan untuk mengubah status peralatan
-
-
 
 Akses diatas diberikan terbatas pada peralatan yang dimiliki oleh perusahaan.
 
@@ -54,3 +52,4 @@ Kantor Unit Pelaksana Teknis dimana domisili perusahaan dapat mengakses data per
 ### 2. Kantor Dinas
 
 Kantor Dinas dapat mengakses data peralatan perusahaan.
+

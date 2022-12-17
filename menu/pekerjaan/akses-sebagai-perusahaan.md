@@ -4,7 +4,7 @@ description: >-
   pekerjaan.
 ---
 
-# Akses sebagai Kantor Dinas
+# Akses sebagai Perusahaan
 
 ## Menu
 
@@ -13,19 +13,19 @@ Dalam menu pekerjaan ini bagi perusahaan tersedia hak akses sebagai berikut:
 1. Lihat Pekerjaan
 2. Tambah Pekerjaan
 3. Edit Pekerjaan
-4. Status Pekerjaan
+4. Update Status Pekerjaan
 
 ### 1. Lihat Pekerjaan
 
-Pada menu ini ditampilkan pekerjaan yang digunakan dalam proses sertifikasi K3
+Pada menu ini ditampilkan pekerjaan yang digunakan dalam proses sertifikasi K3.
 
 ### 2. Tambah Pekerjaan
 
-Menu ini digunakan untuk menambah data pekerjaan
+Menu ini digunakan untuk menambah data pekerjaan.
 
 ### 3. Edit Pekerjaan
 
-Menu ini digunakan untuk mengubah data pekerjaan
+Menu ini digunakan untuk mengubah data pekerjaan.
 
 ### 4. Ubah Status Pekerjaan
 
@@ -48,3 +48,4 @@ Kantor Unit Pelaksana Teknis dimana domisili perusahaan dapat mengakses data pek
 ### 3. Kantor Dinas
 
 Kantor Dinas dapat mengakses data pekerjaan perusahaan.
+

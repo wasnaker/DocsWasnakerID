@@ -4,7 +4,7 @@ description: >-
   pekerjaan.
 ---
 
-# Akses sebagai Perusahaan
+# Akses sebagai UPT
 
 ## Menu
 
@@ -17,7 +17,7 @@ Dalam menu pekerjaan ini bagi perusahaan tersedia hak akses sebagai berikut:
 
 ### 1. Lihat Pekerjaan
 
-Pada menu ini ditampilkan pekerjaan yang digunakan dalam proses sertifikasi K3
+Pada menu ini ditampilkan pekerjaan yang digunakan dalam proses sertifikasi K3.
 
 ### 2. Tambah Pekerjaan
 
@@ -47,4 +47,3 @@ Kantor Unit Pelaksana Teknis dimana domisili perusahaan dapat mengakses data pek
 
 ### 3. Kantor Dinas
 
-Kantor Dinas dapat mengakses data pekerjaan perusahaan.
