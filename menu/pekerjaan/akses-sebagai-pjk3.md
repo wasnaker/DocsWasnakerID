@@ -33,24 +33,21 @@ Menu ini digunakan untuk mengubah status pekerjaan
 
 
 
-Akses diatas diberikan terbatas pada pekerjaan yang dimiliki oleh perusahaan.
+Akses diatas diberikan terbatas pada pekerjaan yang dilakukan oleh PJK3.
 
-## Berbagi Akses
-
-PJK3 dapat berbagi akses data pekerjaan kepada PJK3 yang ditunjuk oleh perusahaan, baik melalui Surat Perintah Kerja / Purchase Order / Working Order.
-
-## Pembatasan Akses
-
-PJK3 yang tidak ditunjuk oleh perusahaan tidak dapat mengakses data pekerjaan milik perusahaan.
 
 ## Otorisasi
 
 Adalah hak akses yang otomatis dimiliki oleh pengguna tertentu sebagaimana dibawah ini:
 
-### 1. Kantor Unit Pelaksana Teknis
+### 1. Perusahaan
+
+Perusahaan yang bekerjasama dengan PJK3 dalam proses sertifikasi terkait memiliki akses untuk melihat pekerjaan.
+
+### 2. Kantor Unit Pelaksana Teknis
 
 Kantor Unit Pelaksana Teknis dimana domisili perusahaan dapat mengakses data pekerjaan perusahaan.
 
-### 2. Kantor Dinas
+### 3. Kantor Dinas
 
 Kantor Dinas dapat mengakses data pekerjaan perusahaan.
