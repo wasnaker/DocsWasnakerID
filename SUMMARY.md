@@ -9,6 +9,7 @@
   * [Akses sebagai Perusahaan](menu/peralatan/akses-sebagai-perusahaan.md)
   * [Akses sebagai PJK3](menu/peralatan/akses-sebagai-pjk3.md)
   * [Akses sebagai UPT](menu/peralatan/akses-sebagai-upt.md)
+  * [Akses sebagai Dinas](menu/peralatan/akses-sebagai-dinas.md)
 * [Program](pengguna/program.md)
 * [Inspeksi](pengguna/inspeksi.md)
 * [Suket](pengguna/suket.md)

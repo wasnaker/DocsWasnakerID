@@ -1,15 +1,14 @@
 ---
 description: >-
-  Kantor Unit Pelaksana Teknis dapat mempergunakan menu peralatan ini untuk
-  melakukan pemantauan peralatan milik perusahaan yang berada dalam wilayah
-  kerja UPT.
+  Kantor Dinas dapat mempergunakan menu peralatan ini untuk melakukan pemantauan
+  peralatan milik perusahaan yang berada dalam wilayah kerjanya.
 ---
 
-# Akses sebagai UPT
+# Akses sebagai Dinas
 
 ### Menu
 
-Dalam menu peralatan ini bagi Kantor Unit Pelaksana Teknis tersedia hak akses sebagai berikut:
+Dalam menu peralatan ini bagi Kantor Dinas tersedia hak akses sebagai berikut:
 
 1. Lihat Peralatan
 
