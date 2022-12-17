@@ -2,13 +2,13 @@
 
 * [Wasnaker.ID](README.md)
 
-## Pengguna
+## Menu
 
-* [Pengguna](pengguna/umum.md)
-* [Peralatan](pengguna/peralatan.md)
-* [Program](pengguna/program.md)
-* [Inspeksi](pengguna/inspeksi.md)
-* [Suket](pengguna/suket.md)
+* [Pengguna](menu/umum.md)
+* [Peralatan](menu/peralatan.md)
+* [Program](menu/program.md)
+* [Inspeksi](menu/inspeksi.md)
+* [Suket](menu/suket.md)
 
 ## Penyedia
 
