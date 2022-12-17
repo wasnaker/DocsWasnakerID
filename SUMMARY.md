@@ -6,7 +6,8 @@
 
 * [Pengguna](menu/pengguna.md)
 * [Peralatan](menu/peralatan.md)
-  * [Akses sebagai Perusahaan](menu/peralatan/akses-sebagai-perusahaan.md)
+  * [Akses sebagai Perusahaan](menu/peralatan/akses-sebagai-perusahaan/README.md)
+    * [Lihat Peralatan](menu/peralatan/akses-sebagai-perusahaan/lihat-peralatan.md)
   * [Akses sebagai PJK3](menu/peralatan/akses-sebagai-pjk3.md)
   * [Akses sebagai UPT](menu/peralatan/akses-sebagai-upt.md)
   * [Akses sebagai Dinas](menu/peralatan/akses-sebagai-dinas.md)
