@@ -6,7 +6,7 @@ description: Menu peralatan digunakan untuk manajemen peralatan
 
 Peralatan berisi daftar peralatan yang dimiliki pengguna yang berkaitan dengan sertifikasi K3, bukan seluruh peralatan yang dimiliki pengguna sebagai perusahaan. &#x20;
 
-### Perusahaan <a href="#pengguna" id="pengguna"></a>
+### Perusahaan
 
 Peran perusahaan dalam menu peralatan ini adalah sebagai pemilik peralatan
 
