@@ -18,7 +18,7 @@
 * [Inspeksi](pengguna/inspeksi.md)
   * [Akses sebagai Perusahaan](menu/inspeksi/akses-sebagai-perusahaan.md)
   * [Akses sebagai PJK3](menu/inspeksi/akses-sebagai-pjk3.md)
-  * [Akses sebagai UPT](menu/inspeksi/akses-sebagai-upt.md)
+  * [Akses sebagai UPT](<menu/inspeksi/akses-sebagai-pjk3 (1).md>)
   * [Akses sebagai Kantor Dinas](menu/inspeksi/akses-sebagai-kantor-dinas.md)
 * [Suket](pengguna/suket.md)
   * [Akses sebagai Perusahaan](menu/suket/akses-sebagai-perusahaan.md)
