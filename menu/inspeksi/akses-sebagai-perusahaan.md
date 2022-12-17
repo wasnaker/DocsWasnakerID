@@ -1,5 +1,5 @@
 ---
-description: Perusahaan dapat mengakses menu inspeksi untuk mengelola aktifitas inspeksi
+description: Perusahaan dapat mengakses menu inspeksi untuk memantau dan mengelola aktifitas inspeksi
 ---
 
 # Akses sebagai Perusahaan
