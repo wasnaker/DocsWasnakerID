@@ -1,5 +1,6 @@
 ---
 description: Menu Peralatan digunakan untuk manajemen peralatan
+coverY: 0
 ---
 
 # Peralatan
