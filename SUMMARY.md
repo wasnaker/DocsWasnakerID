@@ -23,3 +23,8 @@
   * [Akses sebagai PJK3](menu/inspeksi/akses-sebagai-pjk3.md)
   * [Akses sebagai UPT](menu/inspeksi/akses-sebagai-upt.md)
   * [Akses sebagai Kantor Dinas](menu/inspeksi/akses-sebagai-kantor-dinas.md)
+* [Inspeksi](menu/suket/README.md)
+  * [Akses sebagai Perusahaan](menu/suket/akses-sebagai-perusahaan.md)
+  * [Akses sebagai PJK3](menu/suket/akses-sebagai-pjk3.md)
+  * [Akses sebagai UPT](menu/suket/akses-sebagai-upt.md)
+  * [Akses sebagai Kantor Dinas](menu/suket/akses-sebagai-kantor-dinas.md)
