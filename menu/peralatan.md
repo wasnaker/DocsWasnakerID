@@ -6,18 +6,18 @@ description: Menu peralatan digunakan untuk manajemen peralatan
 
 Peralatan berisi daftar peralatan yang dimiliki pengguna yang berkaitan dengan sertifikasi K3, bukan seluruh peralatan yang dimiliki pengguna sebagai perusahaan. &#x20;
 
-### Pengguna <a href="#pengguna" id="pengguna"></a>
+### Perusahaan <a href="#pengguna" id="pengguna"></a>
 
-Peran pengguna dalam menu peralatan ini adalah sebagai pemilik peralatan
+Peran perusahaan dalam menu peralatan ini adalah sebagai pemilik peralatan
 
-### Penyedia
+### PJK3
 
-Peran penyedia dalam menu peralatan ini adalah sebagai pemakai data peralatan dalam proses sertifikasi yang digunakan dalam menu inspeksi.
+Peran PJK3 dalam menu peralatan ini adalah sebagai pemakai data peralatan dalam proses sertifikasi yang digunakan dalam menu inspeksi.
 
 ### Unit Pelaksana Teknis
 
-Peran Unit Pelaksana Teknis dalam menu peralatan ini adalah untuk mengelola data peralatan milik pengguna dalam wilayah kerja unit terkait.
+Peran Unit Pelaksana Teknis (UPT)dalam menu peralatan ini adalah untuk mengelola data peralatan milik pengguna dalam wilayah kerja UPT terkait.
 
 ### Kantor Dinas
 
-Peran Kantor Dinas dalam menu peralatan ini adalah untuk mengadministrasi data peralatan yang dimiliki oleh pengguna dalam wilayah kerja kantor dinas.
+Peran Kantor Dinas dalam menu peralatan ini adalah untuk mengelola data peralatan yang dimiliki oleh pengguna dalam wilayah kerja kantor dinas.
