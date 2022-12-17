@@ -1,5 +1,6 @@
 ---
 description: Pengguna aplikasi ini adalah pemilik akun aplikasi Wasnaker.ID
+cover: ../.gitbook/assets/cover-pengguna-200.png
 coverY: 0
 ---
 
