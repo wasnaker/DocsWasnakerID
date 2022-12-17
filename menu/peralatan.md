@@ -6,7 +6,7 @@ description: Menu peralatan digunakan untuk manajemen peralatan
 
 Peralatan berisi daftar peralatan yang dimiliki pengguna yang berkaitan dengan sertifikasi K3, bukan seluruh peralatan yang dimiliki pengguna sebagai perusahaan. &#x20;
 
-### Perusahaan <a href="#pengguna" id="pengguna"></a>
+### Perusahaan
 
 Peran perusahaan dalam menu peralatan ini adalah sebagai pemilik peralatan
 
@@ -21,3 +21,9 @@ Peran Unit Pelaksana Teknis (UPT)dalam menu peralatan ini adalah untuk mengelola
 ### Kantor Dinas
 
 Peran Kantor Dinas dalam menu peralatan ini adalah untuk mengelola data peralatan yang dimiliki oleh pengguna dalam wilayah kerja kantor dinas.
+
+### Fitur
+
+1. Pada menu ini diperlihatkan daftar peralatan beserta tanggal masa berlaku sertifikasi
+2.  Pada setiap alat diperlihatkan riwayat sertifikasi yang berisi tanggal pelaksanaan riksa uji, tanggal penerbitan surat keterangan, tanggal pemeriksaan kembali seharusnya dilakukan.&#x20;
+
